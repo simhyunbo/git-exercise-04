@@ -15,3 +15,13 @@ public class FileExercise {
         }
     }
 }
+/*
+.\.git
+.\.gitignore
+.\.idea
+.\aa_file
+.\a_file
+.\likelion-java.iml
+.\out
+.\src
+ */
