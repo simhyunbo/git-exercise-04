@@ -6,7 +6,7 @@ import java.util.Set;
 public class RandomAlphabetMain {
     public static void main(String[] args) {
         AlphabetGenerator alphabetGenerator;
-        System.out.println((char)90);
+        
 
         RandomAlphabet randomAlphabet = new RandomAlphabet();
         Set<Character> setAlphabet = new HashSet<>();
