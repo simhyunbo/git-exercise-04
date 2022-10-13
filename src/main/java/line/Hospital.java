@@ -8,6 +8,12 @@ public class Hospital {
     private int emergencyRoom;
     private String name;
     private String subdivision;
+
+    public Hospital(String id, String address) {
+        this.id = id;
+        this.address = address;
+    }
+
     public Hospital(String id) {
         this.id = id.replaceAll("\"","");
     }
