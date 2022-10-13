@@ -1,0 +1,5 @@
+package line;
+
+public interface Parser<T> {
+    T parse(String str);
+}
